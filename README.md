@@ -7,3 +7,5 @@ My third entry in the 2016 10-line BASIC program contest is CONNECT4, a board ga
 If anything, I’d add to the program the ability to have a computer opponent, but I just don’t think I can do it in the space I have left. At one point in this little program’s development, when I had the board and the logic of identifying wins, I knew I had room to add player-missile graphics for the piece dropping, or a computer opponent, but not both. I went for the pretty graphical effect.
 
 Line-by-line code explanation is at https://atariaction.tumblr.com/post/138643299097/connect4
+
+Sometime later, I made a version of the game that works across a network using the [FujiNet](https://fujinet.online) network adapter. Added that version to the repo.
